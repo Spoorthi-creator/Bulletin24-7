@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38537007517",
+    "project_id": "bulletin24-7",
+    "storage_bucket": "bulletin24-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38537007517:android:91e0b6046f94badaa29f74",
+        "android_client_info": {
+          "package_name": "com.aishwaryajain.bulletin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38537007517-h9k1s85qaj041lq9f6juqs8i5u3kgchc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZnqLLgWCu9XfvO3_oyOwqbe6-Fe5CAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38537007517-h9k1s85qaj041lq9f6juqs8i5u3kgchc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
